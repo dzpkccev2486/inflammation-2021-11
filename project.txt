@@ -3,3 +3,4 @@ Some initial data analysis to identify how inflammation changes over time after 
 The quick brown fax machine jumps over the lazy dog.
 But why is the dog?
 
+We will need a data scientist to help the statistician implelemtnt eh PCA and visualisation.
